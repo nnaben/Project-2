@@ -1,5 +1,3 @@
-# Project-2
-Red Team vs. Blue Team
 ## Unit  README: 
 
 ### Unit Description
