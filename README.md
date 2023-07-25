@@ -11,7 +11,7 @@ Then, you will interpret your log data to suggest mitigation measures for each e
 
 ### Unit Objectives
 
-This week's project will prompt you to apply knowledge of the following skills and tools:
+This project prompts to apply knowledge of the following skills and tools:
 
 - Penetration testing with Kali Linux.
 
